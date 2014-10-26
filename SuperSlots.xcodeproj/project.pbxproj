@@ -77,9 +77,9 @@
 		88DA8E2E19FD838B00B2DA93 /* SuperSlots */ = {
 			isa = PBXGroup;
 			children = (
+				88DA8E3519FD838B00B2DA93 /* Main.storyboard */,
 				88DA8E3119FD838B00B2DA93 /* AppDelegate.swift */,
 				88DA8E3319FD838B00B2DA93 /* ViewController.swift */,
-				88DA8E3519FD838B00B2DA93 /* Main.storyboard */,
 				88DA8E3819FD838B00B2DA93 /* Images.xcassets */,
 				88DA8E3A19FD838B00B2DA93 /* LaunchScreen.xib */,
 				88DA8E2F19FD838B00B2DA93 /* Supporting Files */,
